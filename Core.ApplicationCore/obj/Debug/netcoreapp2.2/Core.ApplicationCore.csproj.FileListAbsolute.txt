@@ -1,0 +1,12 @@
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\bin\Debug\netcoreapp2.2\Core.ApplicationCore.deps.json
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\bin\Debug\netcoreapp2.2\Core.ApplicationCore.dll
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\bin\Debug\netcoreapp2.2\Core.ApplicationCore.pdb
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\bin\Debug\netcoreapp2.2\Data.DataAccessLayer.dll
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\bin\Debug\netcoreapp2.2\Data.DataAccessLayer.pdb
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\obj\Debug\netcoreapp2.2\Core.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\obj\Debug\netcoreapp2.2\Core.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\obj\Debug\netcoreapp2.2\Core.ApplicationCore.AssemblyInfo.cs
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\obj\Debug\netcoreapp2.2\Core.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\obj\Debug\netcoreapp2.2\Core.ApplicationCore.csproj.CopyComplete
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\obj\Debug\netcoreapp2.2\Core.ApplicationCore.dll
+C:\Users\mwaqa\Downloads\CSharp-ASP.NET_Core_MVC-SimpleCRUDExample-master\Core.ApplicationCore\obj\Debug\netcoreapp2.2\Core.ApplicationCore.pdb
